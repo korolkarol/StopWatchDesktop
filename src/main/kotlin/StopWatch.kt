@@ -49,6 +49,7 @@ class StopWatch {
         stopWatchState = StopWatchState.STOPPED
         passedTimeMillis = 0
         lastTimeMillis = 0
+        timeMeasurement = TimeMeasurmeant()
     }
 
 }
